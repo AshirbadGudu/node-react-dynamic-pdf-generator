@@ -86,7 +86,7 @@ module.exports = ({ name, price1, price2, receiptId }) => {
                    <td colspan="2">
                       <table>
                          <tr>
-                            <td class="title"><img  src="https://i2.wp.com/cleverlogos.co/wp-content/uploads/2018/05/reciepthound_1.jpg?fit=800%2C600&ssl=1"
+                            <td class="title"><img  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
                                style="width:100%; max-width:156px;"></td>
                             <td>
                                Datum: ${`${today.getDate()}. ${
