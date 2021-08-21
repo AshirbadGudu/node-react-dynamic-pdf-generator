@@ -49,7 +49,9 @@ function App() {
           value={data.price2}
           onChange={(e) => setData({ ...data, price2: e.target.value })}
         />
-        <button onClick={createAndDownloadPdf}>Download PDF</button>
+        <button className="btn-grad" onClick={createAndDownloadPdf}>
+          Download PDF
+        </button>
       </header>
     </div>
   );
